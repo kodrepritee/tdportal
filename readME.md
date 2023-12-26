@@ -26,7 +26,7 @@ you must have following :
 
 Need two terminals to run frontend and backend
 
-For local developmet for backend server
+- For local development for backend
 ```
   cd server
   npm install
@@ -34,7 +34,7 @@ For local developmet for backend server
 
 ```
 
-For local developmet for frontend
+- For local development for frontend
 ```
   cd tdportalinterface
   npm install
