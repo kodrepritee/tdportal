@@ -9,9 +9,9 @@ you must have following :
 * [mongoDb] - 
   - https://www.mongodb.com/cloud/atlas/register
   - create account and login
-  - create a project once successful go to project and create a database [you can choose 'Free Tier']
+  - create a project, Once successful go to project and create a database [ you can choose 'Free Tier']
   - create and run cluster
-  - connecting via driver ex url - [ mongodb=mongodb+srv://<username>:<pssword>@cluster-01.pbr7skn.mongodb.net/<dbname>?retryWrites=true&w=majority ]
+  - connecting via driver - ex url: [ mongodb=mongodb+srv://<i>username</i>:<i>password</i>@cluster-01.pbr7skn.mongodb.net/<i>dbname</i>>?retryWrites=true&w=majority ]
 
 
 ### development and installtion setup
