@@ -18,7 +18,11 @@ you must have following :
 
 ### development and installtion setup
 
-* go to .env file under server folder and change <UserName>, <Passwrod>,  <clusterurl> and <dbname>
+* go to .env file under server folder and change following configs
+  <li>UserName</li>
+  <li>Passwrod</li>
+  <li>clusterurl</li>
+  <li>dbName</li>
 
 * Need to treminal to run frontend and backend
 
