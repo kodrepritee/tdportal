@@ -24,7 +24,7 @@ you must have following :
   <li>clusterurl</li>
   <li>dbName</li>
 
-* Need to treminal to run frontend and backend
+Need two terminals to run frontend and backend
 
 For local developmet for backend server
 ```
